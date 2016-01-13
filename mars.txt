@@ -1,1 +1,2 @@
 Mars is red.
+There are two moons orbiting Mars. 
